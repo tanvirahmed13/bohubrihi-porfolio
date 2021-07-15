@@ -1,3 +1,72 @@
 body {
 	font-family: "Open Sans", sans-serif;
 }
+.banner {
+	background-color: #cacaca;
+}
+.banner-column {
+	background-color: #8d8d8d;
+}
+.navbar {
+	top: 0;
+	background-color: #262b37;
+	position: sticky;
+	z-index: 2;
+}
+.home {
+	background-color: #00bdbd;
+}
+.education {
+	background-color: #eeeeee;
+}
+.edu {
+	color: #fb857f;
+}
+.circle {
+	background-color: #fb857f;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+}
+.project-container {
+	background-color: #2bb3d0;
+}
+a {
+	text-decoration: none;
+}
+.contact {
+	background-color: #102040;
+}
+.failed {
+	margin-right: 5px;
+}
+.inner-form {
+	background-color: #5b5f73;
+}
+.btn {
+	width: 205px;
+	height: 50px;
+	border-radius: 5px;
+	background-color: #fb857f;
+}
+.btn:hover {
+	color: black !important;
+}
+
+.footer {
+	background-color: #2bb3d0;
+	text-align: center;
+}
+.icon {
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	display: inline-block;
+	font-size: 50px;
+	background-color: white;
+	color: #2bb3d0;
+	text-align: center;
+}
+.icon:hover {
+	background-color: #102040;
+}
