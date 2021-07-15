@@ -63,10 +63,6 @@ a {
 	border-radius: 50%;
 	display: inline-block;
 	font-size: 50px;
-	background-color: white;
-	color: #2bb3d0;
+	background-color: #2bb3d0;
 	text-align: center;
-}
-.icon:hover {
-	background-color: #102040;
 }
